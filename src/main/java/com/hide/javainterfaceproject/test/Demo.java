@@ -13,5 +13,6 @@ public class Demo {
         System.out.println("word");
         System.out.println("word-hide");
         System.out.println("master");
+        System.out.println("2022-7-5-hide");
     }
 }
